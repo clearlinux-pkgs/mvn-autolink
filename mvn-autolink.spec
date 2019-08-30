@@ -4,7 +4,7 @@
 #
 Name     : mvn-autolink
 Version  : 0.6.0
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.jar
 Source0  : https://repo1.maven.org/maven2/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.jar
 Source1  : https://repo1.maven.org/maven2/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.pom
